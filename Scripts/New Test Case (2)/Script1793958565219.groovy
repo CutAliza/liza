@@ -18,8 +18,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser(null)
-
 WebUI.navigateToUrl('https://demoqa.com/text-box')
 
 WebUI.setText(findTestObject('Page_demosite/input_Full Name'), 'Cut Liza')
