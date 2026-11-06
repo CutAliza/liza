@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>New Test Case (1)</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>cutliza80</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>cutliza80</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>33fdb71f-fa31-4f56-9864-3802da2b86fc</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>33fdb71f-fa31-4f56-9864-3802da2b86fc</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f95e51f8-5042-46d4-97f1-a1d42d15797f</testCaseGuid>
+</TestCaseEntity>
